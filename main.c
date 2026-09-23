@@ -6,7 +6,7 @@
 int menuP;
 void main(){
 printf("\n--- PROVA7-LP ---\n");
-printf("1-BOLETIM ESCOLAR\n");
+printf("1-BOLETINS\n");
 printf("2-SAIR\n");
 scanf("%d", &menuP);
 
